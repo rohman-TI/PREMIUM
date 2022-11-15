@@ -30,3 +30,9 @@
 ``` python
 Disarankan menggunakan kartu baru atau kartu yang belum pernah dipakai untuk crack.
 Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
+ ```
+#### PRICE LISENSI KEY :
+ ```
+1 Bulan  = 50.000
+Key Bulanan Berlaku Untuk 1 Device Saja
+ ```
