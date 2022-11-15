@@ -17,7 +17,7 @@
  python run.py
 ```
 ### HASIL
- <img src="https://github.com/iyanxlord/PREMIUM/blob/main/IMG_20221115_185249_525.jpg" width="440" title="Hasil" alt="Hasil">
+ <img src="https://github.com/iyanxlord/PREMIUM/blob/main/IMG_20221115_210442.jpg" width="440" title="Hasil" alt="Hasil">
 </p>
 
 #### Update tools
