@@ -14,7 +14,7 @@
  rm -rf PREMIUM
  git clone https://github.com/iyanxlord/PREMIUM
  cd PREMIUM
- python run.py
+ python premV1.py
 ```
 ### HASIL
  <img src="https://github.com/iyanxlord/PREMIUM/blob/main/IMG_20221115_210442.jpg" width="440" title="Hasil" alt="Hasil">
@@ -24,7 +24,7 @@
 ``` bash
  cd PREMIUM
  git pull
- python run.py
+ python premV1.py
 ```
 #### Saran penggunaan
 ``` python
