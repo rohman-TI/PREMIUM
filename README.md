@@ -33,6 +33,10 @@ Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
  ```
 #### PRICE LISENSI KEY :
  ```
-1 Bulan  = 50.000
-Key Bulanan Berlaku Untuk 1 Device Saja
+[•] AUTHOR: IYANXLORD
+[•] LIST HARGA KEY
+[-] 1 MINGGU : 15k 
+[•] 2 MINGGU : 30k
+[•] PERBULAN : 50k
+[•] PERMANEN : 100k
  ```
