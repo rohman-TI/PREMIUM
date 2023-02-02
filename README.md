@@ -35,8 +35,7 @@ Karena ip device nya masih aman, jadi kemungkinan besar mendapat akun OK
  ```
 [•] AUTHOR: IYANXLORD
 [•] LIST HARGA KEY
-[-] 1 MINGGU : 15k 
-[•] 2 MINGGU : 30k
+[•] MINGGU   : 30k
 [•] PERBULAN : 50k
 [•] PERMANEN : 100k
  ```
